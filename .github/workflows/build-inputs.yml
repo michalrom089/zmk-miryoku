@@ -5,7 +5,7 @@ name: 'Build Inputs'
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
     inputs:
       board:
