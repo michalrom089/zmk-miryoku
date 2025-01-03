@@ -7,10 +7,10 @@ on:
     inputs:
       board:
         type: string
-        default: '["default"]'
+        default: '["nice_nano_v2"]'
       shield:
         type: string
-        default: '["default"]'
+        default: '["calder_left","caldera_right"]'
       alphas:
         type: string
         default: '["default"]'
