@@ -3,6 +3,6 @@
 
 outboard_repository=christianselig/caldera-keyboard
 outboard_ref=main
-outboard_from=config/boards/shields/caldera
+outboard_from=zmk-config-caldera/config/boards/shields/caldera
 outboard_to=boards/shields/caldera
 
