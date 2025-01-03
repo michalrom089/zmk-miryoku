@@ -10,7 +10,7 @@ on:
     inputs:
       board:
         description: 'board'
-        required: true
+        required: false
         default: 'nice_nano_v2'
       shield:
         description: 'shield'
